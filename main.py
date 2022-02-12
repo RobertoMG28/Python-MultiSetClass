@@ -12,6 +12,10 @@ if __name__ == "__main__":
 
     my_object.insert(83)
     my_object.insert(83)
+    my_object.insert(83)
+    my_object.insert(94)
+    my_object.insert(56)
+    my_object.insert(666)
     print(my_object)
     my_object.insert(56)
     print(my_object)
