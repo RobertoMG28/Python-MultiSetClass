@@ -28,7 +28,7 @@ class MultiSet(Set.Set):
 
     def is_in(self, val):
 
-        # Check whether the value exists in a tuple
+        # Check whether the value exists in a sublist
         bool_is_in = False
         i = 0
         while not bool_is_in and i < len(self._ele):
